@@ -1,4 +1,4 @@
-# manantf.github.io 
+# First repo
 
 ## This is my first program in GNDEC.
 | Syntax | Description |
