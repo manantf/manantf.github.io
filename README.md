@@ -1,6 +1,7 @@
 # First repo
 
 ## This is my first program in GNDEC.
+
 | Syntax | Description |
 |---|---|
 | Date | 15/07/24 |
